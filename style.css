@@ -4,7 +4,7 @@
 	margin:auto;
 	max-width:1000px;
 }
-.header{
+/*.header{
 	max-width: 1000px;
 	height: 200px;
 	margin: auto;
@@ -13,13 +13,13 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #ccfafc;
-}
-.navigation {
+}*/
+/*.navigation {
 	background-color: #f9d3d3;
 	max-width:1000px;
 	margin:auto;
-}
-.left {
+}*/
+/*.left {
 	width: 50%;
 	float: left;
 	background-color: #cae0a6;
@@ -28,25 +28,22 @@
 	width : 50%;
 	float: left;
 	background-color: #e5dfa5;	
-}
-.footer{
+}*/
+/*.footer{
 	clear:both;
-	
-}
-
+}*/
 
 /* Header Styles */
-.header h1{
+/*.header h1{
 	color: black;
-	/*color: #dbdddd;*/
 	font-size: 4em;
 	text-transform: uppercase;
 	text-align: left;
 	padding-top: 90px;
-}
+}*/
 
 /* Navbar Styles */
-.navbar{
+/*.navbar{
 	list-style:none;
 }
 .navbar li{
@@ -66,4 +63,4 @@
 
 .navbar a:hover{
 	background-color: #fe4e4e;
-}
+}*/
